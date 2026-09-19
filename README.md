@@ -9,7 +9,7 @@
 
 🔗 **[Run the Complete Code Live on Kaggle (No Setup Required)](https://www.kaggle.com/code/sauravsingh184/diabetic-risk-analytics-sql-eda)**  
 🔗 **[View Interactive Power BI Dashboard](dashboard/clinical_operation.pbix)**  
-🔗 **[View Standalone SQL Analytics Pipeline](sql/SQL_Queries)**  
+🔗 **[View Standalone SQL Analytics Pipeline](sql/SQL_Queries.sql)**  
 🔗 **[View Executive Business Presentation (.pptx)](presentation/Executive_Report.pptx)**
 
 ---
@@ -165,6 +165,8 @@ Based on the multi-dimensional clinical risk analysis, the following strategic r
     *   ***The Risk:*** Over **48,000** encounters operate under an 'Unknown' medical specialty, completely masking departmental accountability. 
     *   ***The Action:*** Implement hard stops in the admission software to ensure 100% accurate physician specialty logging.
 
+
+> ![Strategic Business Recommendations](images/recommendation_slide.png)
 
 ---
 
