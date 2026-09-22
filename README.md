@@ -126,6 +126,7 @@ By querying the cleaned dataset against the **11.39% hospital baseline**, the SQ
 | **Clinical Complexity** | High Severity (>8 Diagnoses) | ~48k | **12.77%** | Predicts heavy initial resource drain (Avg. 44.2 labs & 16.9 meds). |
 | **Post-Acute Care** | SNF & Rehab Transfers | ~18k | **16.30%** | Indicates severe failure in third-party post-discharge care protocols. |
 | **Age Demographics** | Young Adults (20-30 Age Group) | ~2k | **14.30%** | Highest relative failure risk, despite lower absolute patient volume. |
+| **Length of Stay** | Prolonged Stay (9+ Days) | ~10k | **13.54%** | Prolonged stays hide critical failure risks; risk jumps by ~31% compared to short 1-4 day stays. |
 
 > **Bottom Line:** The bulk of the hospital's financial penalty is not driven by random clinical failures, but by predictable operational gaps—specifically returning patients (Frequent Flyers) and unmonitored transfers to third-party Rehab facilities.
 
